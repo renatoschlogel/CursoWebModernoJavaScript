@@ -1,0 +1,22 @@
+{
+  "name": "cursowebmodernojavascript",
+  "version": "1.0.0",
+  "description": "Curso Web Moderno com JavaScript 2019! (Udemy: https://www.udemy.com/curso-web/)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/renatoschlogel/CursoWebModernoJavaScript.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/renatoschlogel/CursoWebModernoJavaScript/issues"
+  },
+  "homepage": "https://github.com/renatoschlogel/CursoWebModernoJavaScript#readme",
+  "dependencies": {
+    "lodash": "^4.17.11"
+  }
+}
