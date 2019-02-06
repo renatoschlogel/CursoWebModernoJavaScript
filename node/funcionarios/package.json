@@ -2,8 +2,10 @@
   "name": "funcionarios",
   "version": "1.0.0",
   "description": "Teste",
-  "main": "outro.js",
+  "main": "funcionarios.js",
   "scripts": {
+    "start": "nodemon",
+    "dev": "nodmon",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "",
